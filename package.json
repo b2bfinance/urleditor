@@ -1,0 +1,9 @@
+{
+  "name": "urleditor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:b2bfinance/urleditor.git",
+  "author": "Bradley Weston <hello@bweston.me>",
+  "license": "MIT",
+  "private": true
+}
